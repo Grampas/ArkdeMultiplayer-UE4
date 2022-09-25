@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ArkdeCM.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1961647D-68D8-456C-A03F-85BCC17B077E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ArkdeCM.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ArkdeCMEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D60721E6-037F-430D-AA1F-4DBB08C7BA9B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ArkdeCM">
+      <UniqueIdentifier>{9DC2BB48-7C24-460C-87F9-58275025DC4F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ArkdeCM\ArkdeCM.Build.cs">
+      <Filter>Source\ArkdeCM</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ArkdeCM\ArkdeCM.cpp">
+      <Filter>Source\ArkdeCM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ArkdeCM\ArkdeCM.h">
+      <Filter>Source\ArkdeCM</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ArkdeCM\ArkdeCMCharacter.cpp">
+      <Filter>Source\ArkdeCM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ArkdeCM\ArkdeCMCharacter.h">
+      <Filter>Source\ArkdeCM</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ArkdeCM\ArkdeCMGameMode.cpp">
+      <Filter>Source\ArkdeCM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ArkdeCM\ArkdeCMGameMode.h">
+      <Filter>Source\ArkdeCM</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

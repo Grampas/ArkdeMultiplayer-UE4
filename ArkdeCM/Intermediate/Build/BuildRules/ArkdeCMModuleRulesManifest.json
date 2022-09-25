@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\CursoArkdeMultiplayer\\ArkdeCM\\Source\\ArkdeCM\\ArkdeCM.Build.cs",
+		"D:\\CursoArkdeMultiplayer\\ArkdeCM\\Source\\ArkdeCM.Target.cs",
+		"D:\\CursoArkdeMultiplayer\\ArkdeCM\\Source\\ArkdeCMEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ArkdeCM",
+			"Path": "D:\\CursoArkdeMultiplayer\\ArkdeCM\\Source\\ArkdeCM.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ArkdeCMEditor",
+			"Path": "D:\\CursoArkdeMultiplayer\\ArkdeCM\\Source\\ArkdeCMEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
